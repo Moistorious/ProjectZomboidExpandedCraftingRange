@@ -1,0 +1,6 @@
+version=1
+id=2866079779
+title=Expanded Crafting Range
+description=Expand the range that the game looks for materials to 10 times the size!
+tags=Build 41;Building
+visibility=public
